@@ -44,9 +44,9 @@ Edit the `.env` file to configure database credentials (see "Database Setup").
 
 ### Database Setup
 
-#### MySQL Configuration (via Docker)
+#### MySQL Configuration
 
-Edit `.env` to match the Docker Compose settings:
+Edit `.env` to match the settings:
 
 ```env
 DB_CONNECTION=mysql
